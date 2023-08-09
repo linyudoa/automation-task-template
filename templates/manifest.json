@@ -22,5 +22,5 @@
     "start-mysql-flexible-server.json",
     "scale-mysql-flexible-server.json",
     "scale-postgresql-flexible-server.json",
-    "update-privatedns-a-record"
+    "update-privatedns-a-record.json"
 ]
