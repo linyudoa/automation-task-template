@@ -135,9 +135,9 @@
                 "id": "/subscriptions/sub-id/providers/Microsoft.Web/locations/westeurope/managedApis/office365"
             },
             "webcontents": {
-                "connectionId": "/subscriptions/2941a09d-7bcf-42fe-91ca-1765f521c829/resourceGroups/yudao-rg-mysqlaas-01/providers/Microsoft.Web/connections/webcontents",
-                "connectionName": "webcontents",
-                "id": "/subscriptions/2941a09d-7bcf-42fe-91ca-1765f521c829/providers/Microsoft.Web/locations/eastus/managedApis/webcontents"
+                "connectionId": "",
+                "connectionName": "",
+                "id": "/subscriptions/sub-id/providers/Microsoft.Web/locations/eastus/managedApis/webcontents"
             }
         },
         "parameters": {
