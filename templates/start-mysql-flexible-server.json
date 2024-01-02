@@ -124,16 +124,6 @@
             }
         },
         "connections": {
-            "arm": {
-                "connectionId": "",
-                "connectionName": "",
-                "id": "/subscriptions/sub-id/providers/Microsoft.Web/locations/eastus/managedApis/arm"
-            },
-            "office365": {
-                "connectionId": "",
-                "connectionName": "",
-                "id": "/subscriptions/sub-id/providers/Microsoft.Web/locations/westeurope/managedApis/office365"
-            },
             "webcontents": {
                 "connectionId": "",
                 "connectionName": "",
