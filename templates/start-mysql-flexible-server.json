@@ -19,7 +19,7 @@
                                  },
                                 "host": {
                                     "connection": {
-                                        "name": "@parameters('$connections')['office365']['connectionId']"
+                                        "name": "@parameters('$connections')['webcontents']['connectionId']"
                                     }
                                 },
                                 "method": "post",
